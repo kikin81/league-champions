@@ -1,9 +1,11 @@
-package com.kikinsoft.mobile.leaguechampions;
+package com.kikinsoft.mobile.leaguechampions.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.kikinsoft.mobile.leaguechampions.R;
 
 public class MainActivity extends AppCompatActivity {
 
